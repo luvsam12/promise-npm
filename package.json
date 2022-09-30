@@ -1,0 +1,23 @@
+{
+  "name": "promise-test-luvsam",
+  "version": "1.0.0",
+  "description": "this is a js promise package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luvsam12/promise-npm.git"
+  },
+  "keywords": [
+    "promise",
+    "javascript"
+  ],
+  "author": "naman samaiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luvsam12/promise-npm/issues"
+  },
+  "homepage": "https://github.com/luvsam12/promise-npm#readme"
+}
